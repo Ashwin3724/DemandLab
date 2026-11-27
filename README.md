@@ -30,7 +30,7 @@ MAE is mean absolute prediction error in the series' units. WAPE, calculated by 
 
 ## Code and testing
 
-`app/forecast.py` contains data validation, features, recursive inference, rolling-origin evaluation and the stock illustration. `app/main.py` exposes API endpoints; `app/static/` contains the frontend. `docs/AUDIT.md` and `docs/INTERVIEW_STUDY_GUIDE.txt` document the audit and concepts.
+`app/forecast.py` contains data validation, features, recursive inference, rolling-origin evaluation and the stock illustration. `app/main.py` exposes API endpoints; `app/static/` contains the frontend. `docs/AUDIT.md` documents the audit and limitations.
 
 Windows test commands after the first app run:
 
