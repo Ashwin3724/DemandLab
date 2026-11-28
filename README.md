@@ -1,6 +1,7 @@
 # DemandLab — Forecasting Lab
 
-Preview image is included in encoded form; run `python restore_assets.py` to restore `docs/screenshot.png` locally.
+![DemandLab application screenshot](docs/screenshot.png)
+
 An educational local time-series forecasting application using **invented daily sales**. It compares a seasonal-naive baseline with a random-forest model, performs chronological backtesting, and demonstrates a seven-day forecast and simplified stock calculation. This is not validated for purchasing or real inventory decisions.
 
 ## Start on Windows
